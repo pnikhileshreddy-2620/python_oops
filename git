@@ -1,0 +1,13 @@
+ git init
+  175  git add .
+  176  git commit -m "OOP"
+  177  git remote add origin git@github.com:pnikhileshreddy-2620/python_oops.git
+  178  git push -u origin master
+  179  git push -u origin main
+  180  git push -u main
+  181  git branch
+  182  git remote -v
+  183  git remote set-url origin https://github.com/pnikhileshreddy-2620/python_oops.git
+  184  git push -u origin master
+  185  git checkout -b dev
+  186  history
