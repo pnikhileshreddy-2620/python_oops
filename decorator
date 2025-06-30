@@ -1,0 +1,27 @@
+What is a decorator?
+
+A decorator function is a function that takes another function as argument to extend the functionality of the second function without actually modifying it.
+
+◼️ Syntax
+This is the general syntax of a decorator function:
+
+
+
+def decorator_function(arg_function):
+    def wrapper_function():
+        # Code to extend the functionality
+        arg_function()
+        # Code to extend the functionality
+    return wrapper_function
+
+
+Notice how we are defining the decorator function:
+
+This function has a wrapper function inside it (wrapper_function()).
+
+The function that was taken as argument (arg_function()) is called and extended inside the wrapper function.
+
+The wrapper function is returned by the decorator function.
+
+🚩 In this article, you can find an example that illustrates why @property is implemented as a decorator: Properties - Python Documentation.
+

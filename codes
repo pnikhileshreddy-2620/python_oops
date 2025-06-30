@@ -1,0 +1,41 @@
+/explain: [Your topic]
+→ Gives a clear explanation of the topic
+
+/simple: [Your topic]
+→ Explains in very basic, beginner English
+
+/example: [Your topic]
+→ Gives a simple and clear example
+
+/steps: [Your topic or task]
+→ Gives step-by-step explanation or guide
+
+/compare: [Topic A] vs [Topic B]
+→ Shows differences/similarities in table format
+
+/code: [What you want to code]
+→ Gives a code example (Python, Java, etc.)
+
+/output: [Code]
+→ Predicts or explains the output of code
+
+/summary: [Topic]
+→ Gives a quick summary or short notes
+
+/realuse: [Topic]
+→ Shows real-life use or practical example
+
+/quiz: [Topic]
+→ Gives practice questions or small quiz
+
+/tips: [Topic]
+→ Shares tips or tricks to understand better
+
+/trick: [Topic]
+→ Gives memory tips or shortcuts
+
+/next: [Topic you completed]
+→ Suggests what to learn next
+
+/why: [Topic]
+→ Explains why the topic is important or useful

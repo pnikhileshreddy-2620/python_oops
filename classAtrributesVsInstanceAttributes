@@ -1,0 +1,15 @@
+Class Attributes vs. Instance Attributes
+
+Let's review key differences between class attributes and instance attributes:
+
+◼️ Class Attributes
+They belong to the class itself.
+
+Changing their value affects all the instances of the class because they take the value from the same source.
+
+◼️ Instance Attributes
+They belong to the instances.
+
+Every instance has its own, independent, copy of the attribute.
+
+Changing their value only affects a particular instance. Other instances are not modified.
