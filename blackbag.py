@@ -40,3 +40,9 @@ print(backbag.item)
 # using class name we are calling the methods 
 Bag =Backbag()
 Backbag.add_items(Bag,"White")
+
+backbag1= Backbag()
+backbag.add_items("pink color")
+
+print(id(backbag))
+print(id(backbag1))
